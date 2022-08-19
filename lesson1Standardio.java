@@ -8,7 +8,7 @@ package Day1;
 //class များကို အမည်ပေးရာတွင် ရှေ့ဆုံးစာလုံးအကြီးဖြင့်ပေးရမည်။
 //Case Sensitivity
 //.java extension ဖြင့်ဆုံးသည်။
-public class lesson1ှှStandardio {
+public class lesson1standardio {
 
     //main method ဖြစ်သည်။
     //java compiler သည် code များကို main method မှသာ စတင် execute လုပ်ပေးသည်။
